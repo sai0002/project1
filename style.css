@@ -1,0 +1,21 @@
+.box{
+    margin-left: 34%;
+    margin-top:11%;
+    
+
+}
+.h{
+    margin-left: 45%;
+    margin-top: -202px;
+   max-width: fit-content;
+   height: 165px;
+   padding-top: 40px;
+   text-align: center;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    
+    
+}
+.but{
+    margin-left: 45%;
+}
